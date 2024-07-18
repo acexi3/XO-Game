@@ -1,3 +1,5 @@
+//App : Xs & Os Game in React
+
 import { useState } from 'react';
 
 function Square({value, onSquareClick }) {
