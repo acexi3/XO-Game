@@ -42,7 +42,9 @@ ul {
 
 body {
   font-family: sans-serif;
-  margin: 20px;
+  font-weight: bold;
+  font-color: blue;
+  margin: 26px;
   padding: 0;
 }
 
