@@ -1,4 +1,4 @@
-//App : Xs & Os Game in React
+//App : Xs & Os Game in React - Project 1
 
 import { useState } from 'react';
 
